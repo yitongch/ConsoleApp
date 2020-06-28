@@ -1,0 +1,12 @@
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.deps.json
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.json
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csprojAssemblyReference.cache
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb
+/Users/yitong/Desktop/UCLA/C#/week1/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.genruntimeconfig.cache
